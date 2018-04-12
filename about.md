@@ -1,1 +1,4 @@
-#this is an about me page cool right
+### About Me 
+#### Biography
+#### Design Philosophy / Artist Statement
+#### Image of Self
