@@ -1,3 +1,10 @@
+<nav class="main-nav">
+  <ul>
+    <li><a href="/">Home</a></li>
+    <li><a href="/blog.html">Blog</a></li>
+  </ul>
+</nav>
+
 ## High Level
 Walden is meant to address the stress that oftentimes accompanies our increasingly urbanized lifestyle. For those who live in cities or, in the case of the creator, college campuses, it can be hard to find a space to be alone. Parks are crowded with other people, and living with roommates means not having your own space to completely unwind. With scientific literature suggesting that being in nature can reduce anxiety, Walden uses procedural generation to create a mountain landscape for the user to immerse themselves in 
 
