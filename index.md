@@ -1,7 +1,7 @@
 ## High Level
 Walden is meant to address the stress that oftentimes accompanies our increasingly urbanized lifestyle. For those who live in cities or, in the case of the creator, college campuses, it can be hard to find a space to be alone. Parks are crowded with other people, and living with roommates means not having your own space to completely unwind. With scientific literature suggesting that being in nature can reduce anxiety, Walden uses procedural generation to create a mountain landscape for the user to immerse themselves in 
 
-![Image of Walden]({{ "/assets/Walden.png" | https://github.com/hackerman084/Walden/blob/master/assets/Walden.png }})
+![Image of Walden]("/assets/Walden.png")
 
 ## More Technical Details
 Walden is a Google Cardboard app for iPhone 8 built using Unity. A different landscape is created each time the application is opened, using random seed values as well as Perlin Noise functions. Though you cannot currently move in the landscape on mobile, you can explore the landscape within the Unity Editor itself. 
@@ -16,4 +16,4 @@ About Me | https://github.com/hackerman084/Walden/blob/master/about.md
 Capstone Fair Reactions | https://github.com/hackerman084/Walden/blob/master/capstonefair.md
 My Reflection on the Capstone | https://github.com/hackerman084/Walden/blob/master/journey.md
 
-222222
+33333
