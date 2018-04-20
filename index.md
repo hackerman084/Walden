@@ -1,4 +1,4 @@
-# [About Me](https://github.com/hackerman084/Walden/blob/master/about.md) | [Capstone Reactions](https://github.com/hackerman084/Walden/blob/master/capstonefair.md) | [Journey](https://github.com/hackerman084/Walden/blob/master/journey.md) 
+# [About Me](https://hackerman084.github.io/Walden/about) | [Capstone Reactions](https://hackerman084.github.io/Walden/capstonefair) | [Journey](https://hackerman084.github.io/Walden/journey) 
 
 ## High Level
 Walden is meant to address the stress that oftentimes accompanies our increasingly urbanized lifestyle. For those who live in cities or, in the case of the creator, college campuses, it can be hard to find a space to be alone. Parks are crowded with other people, and living with roommates means not having your own space to completely unwind. With scientific literature suggesting that being in nature can reduce anxiety, Walden uses procedural generation to create a mountain landscape for the user to immerse themselves in 
