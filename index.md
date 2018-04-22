@@ -1,7 +1,7 @@
 <p align="center">
-  <a href="https://hackerman084.github.io/Walden/about"> <font size="7"> About Me </font> </a> |
-  <a href="https://hackerman084.github.io/Walden/capstonefair">Capstone Reactions </a> |
-  <a href="https://hackerman084.github.io/Walden/journey">Journey</a>
+  <a href="https://hackerman084.github.io/Walden/about"> <font size="6"> About Me </font> </a> |
+  <a href="https://hackerman084.github.io/Walden/capstonefair"> <font size="6">Capstone Reactions </font> </a> |
+  <a href="https://hackerman084.github.io/Walden/journey"> <font size="6"> Journey </font> </a>
   <br><br> 
 </p>
 
