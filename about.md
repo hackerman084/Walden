@@ -1,7 +1,7 @@
 # About Me 
 ### An Apt Photo
-![Image of Me](https://github.com/hackerman084/Walden/blob/master/Screen%20Shot%202018-04-17%20at%204.06.29%20PM.png)
-
+![Image of Me](/assets/Screen Shot 2018-04-17 at 4.06.29 PM.png)
+111111
 ## Biography
 My name is Astha Singhal and I am currently a sophomore computer science major in the University of Maryland, College Park. Though I haven't been coding for long, through this capstone I realized that I like the more extended project style as opposed to the short/stressful hackathon project format, and hope to keep my github updated with future projects. I'm involved in both the DCC Honors College Student Council and SASE(the Society of Asian Scientists and Engineers) and love planning events that bring people together. I play the guitar badly but passionately, and love to read and draw whenever I'm free!
 
