@@ -1,8 +1,7 @@
 <p align="center">
   <a href="https://hackerman084.github.io/Walden/about"> <font size="6"> About Me </font> </a> |
-  <a href="https://hackerman084.github.io/Walden/capstonefair"> <font size="6">Capstone Reactions </font> </a> |
+  <a href="https://hackerman084.github.io/Walden/capstonefair"> <font size="6"> Capstone Reactions </font> </a> |
   <a href="https://hackerman084.github.io/Walden/journey"> <font size="6"> Journey </font> </a>
-  <br><br> 
 </p>
 
 ## High Level
@@ -15,12 +14,3 @@ Walden is a Google Cardboard app for iPhone 8 built using Unity. A different lan
 
 ## How It Came to Be
 With technology connecting us to more people over larger distances, society has come up with the destructive notion that being alone means being lonely. Sometime you need a quiet space to recollect yourself, and being on a college campus can make that feel impossible. I was walking through campus very late one November night and had finally found a place with no one else there, but as soon as I started to relax, a roudy group of party-goers ruined the peace. In that moment, I thought *"If I can't find a place to be alone, I'll create one"*. That is what inspired this project.
-
-## More Links
-Title | Link
------------- |------------
-About Me | https://github.com/hackerman084/Walden/blob/master/about.md
-Capstone Fair Reactions | https://github.com/hackerman084/Walden/blob/master/capstonefair.md
-My Reflection on the Capstone | https://github.com/hackerman084/Walden/blob/master/journey.md
-
-66666
