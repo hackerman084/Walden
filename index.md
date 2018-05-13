@@ -5,7 +5,7 @@
 </p>
 
 ## High Level
-Walden is meant to address the stress that oftentimes accompanies our increasingly urbanized lifestyle. For those who live in cities or, in the case of the creator, college campuses, it can be hard to find a space to be alone. Parks are crowded with other people, and living with roommates means not having your own space to completely unwind. With scientific literature suggesting that being in nature can reduce anxiety, Walden uses procedural generation to create a mountain landscape for the user to immerse themselves in 
+Walden aims to reconnect users with nature when they do not have easy access to it. Born from a desire to relax in nature, Walden capitalizes upon the immersive and untapped potential of virtual reality as well as previous research that laud nature's ability to reduce anxiety. Walden was built using Unity and Sebastian Lague's Youtube Channel, and uses procedural generation to create a new mountainous landscape each time the user opens the application. Then, using a Google Cardboard, the user can immersive themselves in a new environment each time they delve into the Cardboard application. Future iterations of Walden will include vegetation and spatial audio. 
 
 ![Image of Walden](/assets/Walden.png)
 
