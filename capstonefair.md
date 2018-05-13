@@ -1,4 +1,11 @@
 # Capstone Fair Reactions
+
+<p align="center">
+  <a href="https://hackerman084.github.io/Walden"> <font size="6"> Home Page </font> </a> <font size="6"> | </font>
+  <a href="https://hackerman084.github.io/Walden/about"> <font size="6"> About Me </font> </a> <font size="6"> | </font>
+  <a href="https://hackerman084.github.io/Walden/journey"> <font size="6"> Journey </font> </a>
+</p>
+
 ![Image of My Project](/assets/IMG_1198.jpg)
 
 ## What Happened?
