@@ -1,9 +1,11 @@
-# What I've Learned Through the Capstone
 <p align="center">
-  <a href="https://hackerman084.github.io/Walden"> <font size="6"> Home Page </font> </a> <font size="6"> | </font>
-  <a href="https://hackerman084.github.io/Walden/capstonefair"> <font size="6"> Capstone Reactions </font> </a> <font size="6"> | </font>
-  <a href="https://hackerman084.github.io/Walden/about"> <font size="6"> About Me </font> </a>
+  <a href="https://hackerman084.github.io/Walden"> <font size=""4> Home Page </font> </a> <font size="6"> | </font>
+  <a href="https://hackerman084.github.io/Walden/capstonefair"> <font size="4"> Capstone Reactions </font> </a> <font size="6"> | </font>
+  <a href="https://hackerman084.github.io/Walden/about"> <font size="4"> About Me </font> </a>
 </p>
+
+# What I've Learned Through the Capstone
+
 ## Preconceptions of Personal Projects 
 Computer Science culture, especially within College / University, has a love affair with hackathons. I always had the impression that personal projects could only really be completed during theose coffee-crazed marathon coding sessions, and found it horribly disappointing when I couldn't finish a project. Inevitably, something would go wrong or my brain would cease to function, and I would leave empty-handed, heavy-hearted, and overall less confident than when I entered. Because of that, I was hesitant about the capstone process. I felt like the only thing I would get out of it was a deep sense of inadequacy. I was incredibly wrong.
 
